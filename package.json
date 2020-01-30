@@ -9,7 +9,7 @@
   "dependencies": {
     "asciidoctor.js": "^1.5.9",
     "mkdirp": "^0.5.1",
-    "plantuml-encoder": "^1.2.5",
+    "@anb0s/plantuml-encoder": "^1.5.1",
     "rusha": "^0.8.13",
     "unxhr": "1.0.1"
   },

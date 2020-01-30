@@ -1,4 +1,4 @@
-const plantumlEncoder = require('plantuml-encoder')
+const plantumlEncoder = require('@anb0s/plantuml-encoder')
 const fs = require('fs')
 
 /**
