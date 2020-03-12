@@ -3,9 +3,6 @@
   "version": "1.5.0",
   "description": "PlantUML support for Asciidoctor.JS.",
   "main": "dist/node/asciidoctor-plantuml.js",
-  "files": [
-    "dist"
-  ],
   "dependencies": {
     "asciidoctor.js": "^1.5.9",
     "mkdirp": "^0.5.1",
